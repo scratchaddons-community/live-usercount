@@ -1,0 +1,31 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+
+  background-color: #242424;
+  color: #ffffff;
+  font-family: "Sora", sans-serif;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#footer {
+  position:fixed;
+  left:0px;
+  bottom:10px;
+  height:30px;
+  width:100%;
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
