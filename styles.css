@@ -25,6 +25,10 @@ body {
   justify-content: center;
 }
 
+h1 {
+  font-size: 6rem
+}
+
 a {
   color: #ffffff;
   text-decoration: none;
