@@ -6,7 +6,7 @@ async function usercount() {
 
   console.log(json);
 
-  element.innerText = json.count;
+  element.innerText = json.countAsString;
 }
 usercount()
 setInterval(usercount, 30_000);
